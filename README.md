@@ -95,7 +95,8 @@ This bot uses Facebook cookies for passwordless login to avoid security checkpoi
 
 ```json
 "engines": {
-  "node": ">=18.0.0"
+  "node": "20.x"
+  "npm": ">=9.0.0"
 }
 ```
 
