@@ -9,7 +9,7 @@
 
 > "An Automatic chatbot."
 >
-> A high-performance Facebook Messenger bot powered by **NeoKex (Multi-FCA Fork)**. Built for stability on Render with a custom **Shadow Garden** aesthetic.
+> A high-performance Facebook Messenger bot powered by **NeoKex (Multi-FCA Added Fork)**. Built for stability on Render with a custom **Shadow Garden** aesthetic.
 
 ---
 
