@@ -4,7 +4,7 @@ const path = require("path");
 
 module.exports = {
   config: {
-    name: "music",
+    name: "sing",
     author: "Meheraz",
     category: "Youtube Song Downloader"
   },
